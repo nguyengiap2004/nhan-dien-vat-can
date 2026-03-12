@@ -1,0 +1,5 @@
+# Required packages for the project
+numpy
+scipy
+opencv-python
+matplotlib
